@@ -8,10 +8,10 @@ Install:
 -- Gitlens
 
 Commands:
--ng new AppName
--ng serve
--ng generate c heroes
--ng generate class hero.ts
+- ng new AppName
+- ng serve
+- ng generate c heroes
+- ng generate class hero.ts
 
 
 
