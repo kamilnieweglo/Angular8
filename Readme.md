@@ -7,7 +7,11 @@ Install:
 - Visual studio extension 
 -- Gitlens
 
-:)
+Commands:
+-ng new AppName
+-ng serve
+-ng generate c heroes
+-ng generate class hero.ts
 
 
 
