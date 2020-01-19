@@ -1,5 +1,12 @@
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Angular 8
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+Install:
+- node.js with npm
+- angluar CLI
+- Git client
+- Visual studio extension 
+-- Gitlens
+
+
+
+ 
